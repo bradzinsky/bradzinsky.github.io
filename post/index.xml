@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Brian Radzinsky</title>
+    <link>http://example.com/post/</link>
+    <description>Recent content in Posts on Brian Radzinsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.com/post/about/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/about/</guid>
+      <description>For a current copy of my CV (PDF) click here.
+I&amp;rsquo;m a PhD candidate in the political science department at the George Washington University.
+My dissertation research examines the effects of strategic competition, organizational behavior, and civilian technological innovation on the development of nuclear command and control systems in the United States, Russia, France, and China.
+During summer 2017 I will be a predoctoral researcher at the Center for Global Security Research at Lawrence Livermore National Laboratory, where I will be working on several projects related to European security and Russian nuclear strategy and policy.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://example.com/post/teaching/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/teaching/</guid>
+      <description>From 2014&amp;ndash;2016, I was a Graduate Teaching Assistant with the GWU Writing in the Disciplines program, where I helped students develop the written and research tools necessary to make critical arguments about international politics. Writing-intensive courses I&amp;rsquo;ve assisted include
+ &amp;ldquo;Theory of War&amp;rdquo; (Instructor: Stephen Biddle) International Security Politics (Instructor: Eric Grynaviski) US Foreign Policy (Instructor: Elizabeth Saunders)  I&amp;rsquo;ve also served as a Graduate Teaching Assistant for introductory and upper-level undergraduate courses in international relations theory.</description>
+    </item>
+    
+  </channel>
+</rss>

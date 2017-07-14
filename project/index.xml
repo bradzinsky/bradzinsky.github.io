@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Brian Radzinsky</title>
+    <link>http://example.com/project/</link>
+    <description>Recent content in Projects on Brian Radzinsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dissertation</title>
+      <link>http://example.com/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project1/</guid>
+      <description>My dissertation examines the development of nuclear command and control systems, especially when countries face strategic competition from other nuclear powers. I investigate why leaders avoid giving their militaries greater control over nuclear decision making when doing so would make their nuclear forces more survivable. If deterrence depends on assuring retaliation, why do leaders sometimes choose to rely on costly and complicated technology instead of pre-delegating authority to the military? I develop a new explanation for decision making about nuclear operations and trace the development of command and control systems in the United States, Russia, France, and China.</description>
+    </item>
+    
+  </channel>
+</rss>

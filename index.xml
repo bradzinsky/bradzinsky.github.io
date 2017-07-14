@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Radzinsky</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Brian Radzinsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dissertation</title>
+      <link>http://example.com/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project1/</guid>
+      <description>My dissertation examines the development of nuclear command and control systems, especially when countries face strategic competition from other nuclear powers. I investigate why leaders avoid giving their militaries greater control over nuclear decision making when doing so would make their nuclear forces more survivable. If deterrence depends on assuring retaliation, why do leaders sometimes choose to rely on costly and complicated technology instead of pre-delegating authority to the military? I develop a new explanation for decision making about nuclear operations and trace the development of command and control systems in the United States, Russia, France, and China.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.com/post/about/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/about/</guid>
+      <description>For a current copy of my CV (PDF) click here.
+I&amp;rsquo;m a PhD candidate in the political science department at the George Washington University.
+My dissertation research examines the effects of strategic competition, organizational behavior, and civilian technological innovation on the development of nuclear command and control systems in the United States, Russia, France, and China.
+During summer 2017 I will be a predoctoral researcher at the Center for Global Security Research at Lawrence Livermore National Laboratory, where I will be working on several projects related to European security and Russian nuclear strategy and policy.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://example.com/post/teaching/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/teaching/</guid>
+      <description>From 2014&amp;ndash;2016, I was a Graduate Teaching Assistant with the GWU Writing in the Disciplines program, where I helped students develop the written and research tools necessary to make critical arguments about international politics. Writing-intensive courses I&amp;rsquo;ve assisted include
+ &amp;ldquo;Theory of War&amp;rdquo; (Instructor: Stephen Biddle) International Security Politics (Instructor: Eric Grynaviski) US Foreign Policy (Instructor: Elizabeth Saunders)  I&amp;rsquo;ve also served as a Graduate Teaching Assistant for introductory and upper-level undergraduate courses in international relations theory.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://example.com/teaching/teaching/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/teaching/teaching/</guid>
+      <description>Teaching This is a test.</description>
+    </item>
+    
+  </channel>
+</rss>
